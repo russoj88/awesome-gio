@@ -58,5 +58,13 @@ A collection of resources related to [Gio](https://gioui.org/).
 * [Novel State Management in Gio](https://jackmordaunt.srht.site/post/novel-state-management-in-gio/): Simplify state management by respecting the frame lifecycle: load data at the start of the frame and save data at the end of the frame.
 * [GIO iOS app install tutorial](https://github.com/chmike/gioiostutorial), Tutorial for building Gio applications for iOS and trying them on your device.
 
+## Demos of Gio Software
+* [Gio GUI toolkit editor selection](https://www.youtube.com/watch?v=M2lY94WdcIs)
+* [gio chat desktop. Golang](https://www.youtube.com/watch?v=bhtZ2yrnmmM)
+* [gio chat web. Golang](https://www.youtube.com/watch?v=F4JjnHHMUDc)
+* [gio skel](https://www.youtube.com/watch?v=eKAYunl39RI)
+* [explorer recording](https://www.youtube.com/watch?v=Xl18CWijs4k)
+* [GIOUI Skel](https://www.youtube.com/watch?v=6Ud-GddXwqU)
+ 
 ## Support
 * [Gio OpenCollective](https://opencollective.com/gioui)
