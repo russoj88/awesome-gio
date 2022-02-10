@@ -41,6 +41,7 @@ A collection of resources related to [Gio](https://gioui.org/).
 
 ## Software built with Gio
 * [Scatter](https://scatter.im/): An implementation of the Signal protocol over email.
+* [Tailscale](https://github.com/tailscale/tailscale-android): Tailscale Android Client
 * [godcr](https://github.com/planetdecred/godcr): A cross-platform desktop wallet for the Decred cryptocurrency.
 * [sprig](https://git.sr.ht/~whereswaldon/sprig): A client for the [Arbor](https://arbor.chat) chat system.
 * [Kanban](https://git.sr.ht/~jackmordaunt/kanban): Kanban app in (pure) Go using the Gio toolkit.
