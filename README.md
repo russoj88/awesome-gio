@@ -23,7 +23,8 @@ A collection of resources related to [Gio](https://gioui.org/).
 [13](https://www.youtube.com/watch?v=iwF0ntmC-g8) |
 [14](https://www.youtube.com/watch?v=vbq865xTt-c) |
 [15](https://www.youtube.com/watch?v=FOY4vhUoikU) |
-[16](https://www.youtube.com/watch?v=qeAB5W2atKY)
+[16](https://www.youtube.com/watch?v=qeAB5W2atKY) |
+[17](https://www.youtube.com/watch?v=1g5bKeTouX4)
 
 # Gio News
 * [February 2022](https://lists.sr.ht/~eliasnaur/gio/%3CCAFcc3FQPxxZOFFT-66s8eT5KM5%2BBAX4Wf-QwsK4h79X%2BAwBFCA%40mail.gmail.com%3E)
