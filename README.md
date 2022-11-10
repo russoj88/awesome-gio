@@ -27,6 +27,7 @@ A collection of resources related to [Gio](https://gioui.org/).
 [17](https://www.youtube.com/watch?v=1g5bKeTouX4)
 
 # Gio News
+* [October 2022](https://gioui.org/news/2022-10)
 * [September 2022](https://gioui.org/news/2022-09)
 * [August 2022](https://gioui.org/news/2022-08)
 * [July 2022](https://gioui.org/news/2022-07)
