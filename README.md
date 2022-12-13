@@ -1,5 +1,5 @@
 # Awesome Gio
----
+
 A collection of resources related to [Gio](https://gioui.org/).
 
 ## Introduction to Gio
