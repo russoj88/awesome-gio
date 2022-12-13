@@ -97,6 +97,7 @@ A collection of resources related to [Gio](https://gioui.org/).
 * [Protonet](https://github.com/mearaj/protonet): A Cross-Platform, Multi-Communication, Serverless (Decentralized) App.
 * [photon](https://git.sr.ht/~ghost08/photon) Fast RSS reader as light as a photon
 * [wormhole-william-mobile](https://github.com/psanford/wormhole-william-mobile): End-to-end encrypted file transfer for Android. An Android Magic Wormhole client.
+* [gio-icon-browser](https://github.com/steverusso/gio-icon-browser): A browser for the icons in the `golang.org/x/exp/shiny/materialdesign/icons` package.
 
 ## Articles
 * [Novel State Management in Gio](https://jackmordaunt.srht.site/post/novel-state-management-in-gio/): Simplify state management by respecting the frame lifecycle: load data at the start of the frame and save data at the end of the frame.
