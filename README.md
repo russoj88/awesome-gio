@@ -31,6 +31,7 @@ A collection of resources related to [Gio](https://gioui.org/).
 <details open>
 <summary>2023</summary>
 
+* [March](https://gioui.org/news/2023-03)
 * [February](https://gioui.org/news/2023-02)
 * [January](https://gioui.org/news/2023-01)
 </details>
